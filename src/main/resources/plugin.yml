@@ -1,0 +1,4 @@
+name: Hardplugin
+version: '1.0-SNAPSHOT'
+main: com.example.hardplugin.Hardplugin
+api-version: '1.21'
